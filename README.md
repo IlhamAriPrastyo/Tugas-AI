@@ -6,3 +6,11 @@ Untuk memudahkan website dapat ditemukan dan meningkatkan tingkat kunjungan dari
 Mesin pencari atau search engine memiliki cara kerja tersendiri, Search Engine bekerja dengan algoritma yang terpasang didalamnya yang digunakan untuk menilai suatu website. Algoritma tersebut mempertimbangkan faktor faktor yang akan membuat suatu kata kunci pencarian mengarah pada website tersebut, sehingga membuat website dengan faktor terbaik akan muncul pada paling atas pada kolom pencarian.
 SEO sendiri memilki kata kunci yang sering dicari konsumen, jadi kata yang paling banyak dicari oleh konsumen akan  diproses yang nantinya akan dimasukkan kedalam sistem agar sesuai dengan referensi konsumen yang berkunjung ke website. Dengan kata kunci ini akan membuat peluang tinggi web akan mudah dicari dan muncul di paling atas dalam kolom pencarian pada search engine. Dari hal tersebut akan membuat traffic web akan meningkat dan menyesuaikan referensi keinginan konsumen. Dan juga konten atau isi web yang berkualitas akan meningkatkan peringkat web dalam mesin pencarian.
 Dari hal diatas maka, pelaku usaha atau pemilik bisnis perlu memahami pentingnya SEO pada website mereka. Dengan strategi menggunakan SEO yang efektif akan membuat traffic web mereka menjadi ramai oleh konsumen sehingga pemasaran produk menjadi efektif.
+
+
+refrensi
+View of The Optimization of Website Visibility and Traffic by Implementing Search Engine Optimization (SEO) in Palembang Polytechnic of Tourism. (2023). Binus.ac.id. https://journal.binus.ac.id/index.php/commit/article/view/5953/3825
+Singh, D., Avipsa Panigrahi, Das, A., Krishnan, A., Samanta, D., Bhattacharya, A., & Dutta, S. (2022). Search Engine Optimization for Digital Marketing to Raise the Rank, Traffic, and Usability of the Website. Smart Innovation, Systems and Technologies, 217–226. https://doi.org/10.1007/978-981-19-5403-0_18
+
+‌
+‌
